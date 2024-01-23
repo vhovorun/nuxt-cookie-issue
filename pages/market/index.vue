@@ -1,0 +1,1 @@
+<template>Market page</template>
